@@ -17,4 +17,3 @@ int main(){
 	cout<<variabel_nama2<<"	: Hai salam kenal juga namaku \""<<variabel_nama2<<"\"."<<endl;
 	return 0;
 }
-
